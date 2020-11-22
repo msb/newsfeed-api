@@ -1,0 +1,7 @@
+#docopt
+#requests
+#PyYAML
+#deepmerge
+pymongo
+gunicorn
+flask
