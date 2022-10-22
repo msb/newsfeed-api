@@ -5,3 +5,4 @@
 pymongo
 gunicorn
 flask
+flask-sentinel
